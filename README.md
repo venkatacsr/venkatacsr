@@ -1,5 +1,6 @@
 ## Hi there 👋 My name is VenkataCSR
-"I'm a self-taught cybersecurity enthusiast, passionate about learning and protecting people’s data."
+I'm a self-taught cybersecurity enthusiast, passionate about learning and protecting people’s data.
+
 Projects
 _____________________________________________________________________________________________________________________________________________________
 Analysis and Investigations
