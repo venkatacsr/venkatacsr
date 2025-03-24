@@ -3,6 +3,7 @@ I'm a self-taught cybersecurity enthusiast, passionate about learning and protec
 
 Projects
 _____________________________________________________________________________________________________________________________________________________
+
 Analysis and Investigations
 
 Incident Report Analysis
