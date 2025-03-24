@@ -1,7 +1,6 @@
 ## Hi there 👋 My name is VenkataCSR
--------------------------------------------------------------------------------------------------------
 "I'm a self-taught cybersecurity enthusiast, passionate about learning and protecting people’s data."
--------------------------------------------------------------------------------------------------------
+
 <!--
 **venkatacsr/venkatacsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🌱 I’m currently learning Cyber Security Principles
