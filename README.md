@@ -15,8 +15,6 @@
 
     Sharing & Learning – I write blogs, build projects, and share insights to help others grow in DevOps.
   
-
-                                                  https://github.com/user-attachments/assets/99b18563-e836-479b-bf4d-94e3f89eb453
   
 - 🔭 I’m currently working on **Linux-DevOps project in Healthcare IT**
 
@@ -26,8 +24,7 @@
 
 - 🤝 I’m looking for help with **Cyber Security | Cloud Security**
 
-                                                ![image](https://github.com/user-attachments/assets/5bc0cbb0-32ce-4961-9983-1ea06fbc3b5a)
-
+                                               
 - 💬 Ask me about **Linux and DevOps**
 
 - 📫 How to reach me **venkatacsr12@gmail.com**
