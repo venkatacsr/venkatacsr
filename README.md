@@ -1,17 +1,31 @@
-<h1 align="center">Hi 👋, I'm VenkataChandraSe</h1>
-<h3 align="center">|DevOps Engineer|CI/CD|Docker/Kubernetes|Cybersecurity Enthusiast |</h3>
+<h1 align="center">Hi 👋, I'm Venkata ChandraSe</h1>
+<h3 align="center">DevOps | CI/CD | Automation | Cloud | Cybersecurity Enthusiast |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatacsr&label=Profile%20views&color=0e75b6&style=flat" alt="venkatacsr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkatacsr" alt="venkatacsr" /></a> </p>
 
-- 🔭 I’m currently working on **Linux and DevOps Project in Healthcare IT**
+- I’m Venkata ChandraSe Ratnakara, a Systems/DevOps Engineer who loves automating, optimizing, and scaling cloud infrastructure. If there’s a way to make something faster, more efficient, or hands-free — I’m all in!
+
+- What I’m Passionate About:
+
+    Cloud & DevOps – Building secure, scalable, and high-performance systems with AWS, Azure, Kubernetes, and Terraform.
+
+    Automation & CI/CD – Writing scripts, creating seamless deployments, and making infrastructure truly "hands-off."
+
+    Sharing & Learning – I write blogs, build projects, and share insights to help others grow in DevOps.
+
+                                                  ![image](https://github.com/user-attachments/assets/99b18563-e836-479b-bf4d-94e3f89eb453)
+
+- 🔭 I’m currently working on **Linux-DevOps project in Healthcare IT**
 
 - 🌱 I’m currently learning **Networking+ | Security+ | Cloud Security**
 
 - 👯 I’m looking to collaborate on **Linux | DevOps | Cloud Security**
 
 - 🤝 I’m looking for help with **Cyber Security | Cloud Security**
+
+                                                ![image](https://github.com/user-attachments/assets/5bc0cbb0-32ce-4961-9983-1ea06fbc3b5a)
 
 - 💬 Ask me about **Linux and DevOps**
 
@@ -21,7 +35,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/venkatachandra-ratnakara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheki.ratnakara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/venkatachandra-ratnakara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/venkatachandra-ratnakara" height="30" width="40" /></a>
 <a href="https://fb.com/sheki.ratnakara@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sheki.ratnakara@gmail.com" height="30" width="40" /></a>
 </p>
 
@@ -36,3 +50,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkatacsr&show_icons=true&locale=en" alt="venkatacsr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkatacsr&" alt="venkatacsr" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
