@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkata ChandraSe</h1>
-<h3 align="center">DevOps | CI/CD | Automation | Cloud | Cybersecurity Enthusiast |</h3>
+<h3 align="center"> | DevOps | CI/CD | Automation | Cloud | Cybersecurity Enthusiast |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatacsr&label=Profile%20views&color=0e75b6&style=flat" alt="venkatacsr" /> </p>
 
